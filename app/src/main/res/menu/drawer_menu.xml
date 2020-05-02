@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/it1" android:title="Eventos" android:icon="@mipmap/evento"/>
+    <item android:id="@+id/it2" android:title="Historial" android:icon="@mipmap/historial"/>
+    <item android:id="@+id/it3" android:title="Citas" android:icon="@mipmap/cita"/>
+    <item android:id="@+id/it4" android:title="Oonfiguracion" android:icon="@mipmap/confi"/>
+    <item android:id="@+id/it5" android:title="Ayuda y comentarios" android:icon="@mipmap/ayuda"/>
+
+</menu>
